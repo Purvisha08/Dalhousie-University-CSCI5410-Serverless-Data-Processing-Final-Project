@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cosmic-kite-278709",
+  "private_key_id": "d7f7b5a68348c9fcfb21e1d29860549897539d62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCl6UdU+pj/ggM0\ni+npI9uUc1QfAWo+vE5Sz95wPpgweyNvvEwCrJxkid4IjgGjAaXHXFNdmdOXVpnd\nU6abMtcxBSVsDp//pAro5CXjZbazCYSN2FmWFkoomEVDPKCS23xvBLUnLR5Kts4L\nWeRIKXkFWlQ/L46uX4GJT2+YJhI8uuoQP0D7OsH8MNWGtbQMHEXASCcMAWdqWUs/\nzUAxDDS18bAlo9owMh9tfRwgJ9S5hKpSFHdvo0IriTnX9ljMtysGqTgp13XxZYvz\ni6YLz+JmDICheWV/27/4CwXeES8YoEhsPymvEy/UXJ9GpbVvtv3hTUxNOamQ3reA\n9q1B4dv/AgMBAAECggEADoDbBHm3oDZcU16bvw6sZkjCpMc542wQqLqVJljCcxKA\noYbjWiR+s2c96p+HUxmUxV2zx+3nikY+wxNJ8C08lINvpweMQwuzDHLNQRimJPaD\nCOdNxYoDR5MwEtWc79mSAh52O4t9J2jdkC52fzxo4Ofpj3B315RvvXIdPj6tv3Mv\nSD6Iyns2BuCEtxec673LyBif62CCAuYX9dfF7cZqT5YFkan6QifvNU64onLSv08I\nK3YU6Sld+rXwMvKBeZAw+Dqob7giVH7BrDjoG8XXOr4SACKiKVGQ6s68AMKP7BsJ\n/lTUsKSbdcq/N8ybXm13App3Xav6cW7zjy524DwFoQKBgQDjWiCXruon5q1DXmi+\nuN1onpVmJoNIL70w71mV8bxoB3/q4S76stKBLP9DHpZBmtQreG9Nh0xEHnH9t/f6\ntPhqKC7UeMYJIQMeyvMfRwirs0leB14ioMAm4ni9OLya2D/qE1KJu+sd5PQsNB0e\n7GWNbHbG0/YkFZMuwRqtiUM/sQKBgQC60TUAkSybmXG3Fab/c+xDPdTkYE/9Yl/r\nITtT2MoCTaRY1MOzYTagNQ4uv7ovPj8yo+wyNUZdAM5blpnDTRG1omS7b5+zHraa\n9ipRkC+v25dEG0Mmz7+Uxx7IHB9UMChURtWzUmlZovzNlGVS8qK/DdzSxb+9ivY7\nIDL0BvTyrwKBgDm/3/2HkbT29FXjeknP3XXAqoRbDgfdEHqIocHjuI7YMNbxwiQu\nHihvzJs4/sPFV1V/bw5LasT20s+21keZhmw4rsSLtQoGl6tPs/fi7EHo9Z7r0i6L\nlKOL7U1rRwUyHvIPXGzeDff2+0rrJeZ/97+3qGgS2TgLPuqmZGdmMW3RAoGBAIvU\nHQTQpH/OaSPtS/K2NKfbtuY9BIIWSM74L6zBfeodbR6kGdrAr59YNsZc8SF9SNZB\nhX/LCmCAQvSgk3Rv0gqOgzEcCn+KRIlWKTSlZFwPU3hBo5CAPNhB9dM34WclKHp0\nDm3LCFl0Oh4xrWlZfODdomQMaUiYo1Z78kdekaa3AoGAfEEYrQsq+EByGIVPhpG6\nuW8JtSGUpcn7ddxtjHJ+7dssoDJC3vQ2MqLHsagPHvNwqzmW0gmQ3r6G3J5aj3v8\na8LnqfXoQcZsjHVkNn3BNawuPZe8pRZxZ/bTso7RVd++QDyVeahEde70AC4QsTvi\nwoxgHKKMXojMDR3XHzhbcCk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets@cosmic-kite-278709.iam.gserviceaccount.com",
+  "client_id": "115745217428574409980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets%40cosmic-kite-278709.iam.gserviceaccount.com"
+}
